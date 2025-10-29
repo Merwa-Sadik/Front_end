@@ -5,28 +5,27 @@ It allows users to add, edit, and delete tasks directly from their browser.
 
 Features
 
-Add new tasks to the list
+-Add new tasks to the list
 
-Edit existing tasks
+-Edit existing tasks
 
-Delete tasks when they are completed or no longer needed
+-Delete tasks when they are completed or no longer needed
 
-Simple and responsive design that works on both desktop and mobile browsers
+-Simple and responsive design that works on both desktop and mobile browsers
 
 How to Run
 
-Download or clone this repository:
+-Download or clone this repository:
 
-git clone https://github.com/your-username/todo-list-app.git
+git clone https://github.com/Merwa-Sadik/Front_end/tree/main
 
+-Open the project folder on your computer.
 
-Open the project folder on your computer.
+-Double-click on the index.html file to open it in your web browser.
 
-Double-click on the index.html file to open it in your web browser.
+-Use the input field to add new tasks, and click the "Add Task" button to save them.
 
-Use the input field to add new tasks, and click the "Add Task" button to save them.
-
-You can also edit or delete tasks directly from the list.
+-You can also edit or delete tasks directly from the list.
 
 Project Structure
 todo-list-app/

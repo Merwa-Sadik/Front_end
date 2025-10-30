@@ -45,6 +45,7 @@ Verified responsive layout and clean user interaction
 
 Screenshots
 Home Page
+![Home Page](image.png)
 
 
 
